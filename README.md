@@ -30,3 +30,5 @@
 git clone https://github.com/pallavighxsh/Outreach.git
 cd Outreach
 ```
+👉 After cloning, install the required Python packages:
+pip install -r requirements.txt
