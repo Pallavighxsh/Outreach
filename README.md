@@ -32,3 +32,5 @@ cd Outreach
 ```
 👉 After cloning, install the required Python packages:
 pip install -r requirements.txt
+
+👉 If the installations aren't working properly, try creating a virtual environment! Don't forget to deactivate it afterward.
